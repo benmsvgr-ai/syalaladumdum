@@ -1,2 +1,150 @@
-const MATERI=[{"icon": "🏠", "title": "Dashboard", "content": "<h2>Dashboard Belajar PBJ Level-1</h2><p>Web app offline untuk belajar cepat. Materi dipisah per bab, ada search, cheat sheet, jebakan soal, dan bank soal.</p><div class=\"warn\"><b>Catatan:</b> ini versi ringkasan terstruktur, bukan salinan 500 halaman modul kata-per-kata.</div>"}, {"icon": "⚡", "title": "Cheat Sheet Sakral", "content": "<h2>Cheat Sheet Sakral</h2><h3>Angka Wajib</h3><table><tr><th>Nilai</th><th>Makna</th></tr><tr><td>≤ Rp10 juta</td><td>Bukti pembelian</td></tr><tr><td>≤ Rp50 juta</td><td>Kuitansi</td></tr><tr><td>≤ Rp100 juta</td><td>PL Jasa Konsultansi</td></tr><tr><td>≤ Rp200 juta</td><td>PL Barang/Jasa Lainnya</td></tr><tr><td>≤ Rp400 juta</td><td>PL Konstruksi</td></tr></table><h3>8 Tujuan</h3><ol><li>Value for Money</li><li>PDN</li><li>UMK/Koperasi</li><li>Pelaku usaha nasional</li><li>Penelitian</li><li>Industri kreatif</li><li>Pemerataan ekonomi</li><li>Pengadaan berkelanjutan</li></ol><h3>7 Prinsip</h3><p><b>Efisien, Efektif, Transparan, Terbuka, Bersaing, Adil, Akuntabel.</b></p>"}, {"icon": "📘", "title": "Pengantar PBJ", "content": "<h2>Pengantar PBJ</h2><p>PBJ adalah proses sejak identifikasi kebutuhan sampai serah terima hasil pekerjaan.</p><h3>Ruang Lingkup</h3><ul><li>Barang</li><li>Pekerjaan Konstruksi</li><li>Jasa Konsultansi</li><li>Jasa Lainnya</li></ul><h3>Etika</h3><ul><li>Profesional</li><li>Menjaga rahasia</li><li>Menghindari konflik kepentingan</li><li>Tidak gratifikasi/kolusi</li></ul>"}, {"icon": "👥", "title": "Pelaku PBJ", "content": "<h2>Pelaku PBJ</h2><table><tr><th>Pelaku</th><th>Tugas Sakral</th></tr><tr><td>PA/KPA</td><td>Perencanaan/RUP sesuai kewenangan.</td></tr><tr><td>PPK</td><td>KAK, HPS, rancangan kontrak, pengendalian kontrak, kinerja penyedia.</td></tr><tr><td>Pokja</td><td>Pemilihan penyedia/evaluasi/pemenang.</td></tr><tr><td>Pejabat Pengadaan</td><td>Pengadaan langsung, PL tertentu, E-Purchasing sesuai batas.</td></tr></table><div class=\"danger\">Jebakan: HPS = PPK, pemilihan = Pokja.</div>"}, {"icon": "📦", "title": "SCM / Rantai Pasok", "content": "<h2>Manajemen Rantai Pasok</h2><p>SCM mengelola aliran barang, jasa, informasi, dan uang dari hulu ke hilir.</p><table><tr><th>Istilah</th><th>Makna</th></tr><tr><td>Spend Analysis</td><td>Analisis belanja dan peluang efisiensi.</td></tr><tr><td>Market Analysis</td><td>Ketersediaan pasar, harga, risiko pasok.</td></tr><tr><td>TCO</td><td>Total biaya kepemilikan.</td></tr><tr><td>Life Cycle Cost</td><td>Biaya sepanjang siklus hidup.</td></tr></table><div class=\"danger\">Harga termurah belum tentu paling value for money.</div>"}, {"icon": "🧾", "title": "Perencanaan PBJ", "content": "<h2>Perencanaan PBJ</h2><ol><li>Identifikasi kebutuhan</li><li>Jenis barang/jasa</li><li>Spesifikasi/KAK</li><li>RAB</li><li>HPS</li><li>Strategi</li><li>Pemaketan</li><li>Konsolidasi</li><li>RUP/SiRUP</li></ol><h3>HPS</h3><ul><li>Disusun PPK</li><li>Data dapat dipertanggungjawabkan</li><li>Nilai terbuka, rincian rahasia</li><li>Bukan dasar kerugian negara</li></ul><div class=\"danger\">Dilarang memecah paket untuk menghindari tender.</div>"}, {"icon": "🤝", "title": "Pemilihan Penyedia", "content": "<h2>Pemilihan Penyedia</h2><table><tr><th>Jenis</th><th>Metode</th></tr><tr><td>Barang/Konstruksi/JL</td><td>Tender, Penunjukan Langsung, Pengadaan Langsung, E-Purchasing</td></tr><tr><td>Jasa Konsultansi</td><td>Seleksi, Penunjukan Langsung, Pengadaan Langsung, E-Purchasing</td></tr></table><p>Sanggah harus berdasarkan dugaan penyimpangan proses, bukan sekadar tidak puas.</p>"}, {"icon": "📑", "title": "Kontrak PBJ", "content": "<h2>Kontrak PBJ</h2><table><tr><th>Jenis</th><th>Ciri</th></tr><tr><td>Lumsum</td><td>Harga pasti</td></tr><tr><td>Harga Satuan</td><td>Volume belum pasti</td></tr><tr><td>Payung</td><td>Kebutuhan berulang</td></tr><tr><td>Turnkey</td><td>Siap digunakan</td></tr></table><h3>Bentuk</h3><p>Bukti Pembelian ≤10 jt, Kuitansi ≤50 jt, SPK, Surat Perjanjian, Surat/Bukti Pesanan untuk E-Purchasing.</p>"}, {"icon": "🏗️", "title": "Swakelola", "content": "<h2>Swakelola</h2><table><tr><th>Tipe</th><th>Pelaksana</th></tr><tr><td>I</td><td>Sendiri</td></tr><tr><td>II</td><td>Instansi lain</td></tr><tr><td>III</td><td>Ormas</td></tr><tr><td>IV</td><td>Kelompok masyarakat</td></tr></table><div class=\"danger\">Jebakan: II = instansi lain, III = Ormas.</div>"}, {"icon": "🛒", "title": "E-Purchasing", "content": "<h2>E-Purchasing</h2><p>Pembelian barang/jasa melalui Katalog Elektronik atau Toko Daring. Outputnya surat/bukti pesanan.</p><div class=\"danger\">Jika tersedia di katalog dan sesuai kebutuhan, jangan langsung pilih pengadaan langsung di luar katalog.</div>"}, {"icon": "🌱", "title": "Pengadaan Berkelanjutan", "content": "<h2>Pengadaan Berkelanjutan</h2><div class=\"cards\"><div class=\"card\"><b>Ekonomi</b><span>Value for Money</span></div><div class=\"card\"><b>Sosial</b><span>UMK/Koperasi</span></div><div class=\"card\"><b>Lingkungan</b><span>Ramah lingkungan</span></div></div><p>PDN = Produk Dalam Negeri, TKDN = Tingkat Komponen Dalam Negeri, SNI = Standar Nasional Indonesia.</p>"}, {"icon": "📝", "title": "Bank Soal", "content": "<h2>Bank Soal</h2><div id=\"quiz\"></div><button class=\"primary\" onclick=\"startQuiz()\">Tampilkan Soal</button>"}];
-const QUESTIONS=[["Siapa menyusun HPS?", ["PA", "PPK", "Pokja", "Penyedia"], 1, "PPK menyusun HPS."], ["RUP diumumkan melalui?", ["SPSE", "SiRUP", "LPSE", "Katalog"], 1, "RUP diumumkan di SiRUP."], ["Metode Jasa Konsultansi?", ["Tender", "Seleksi", "Lelang", "Swakelola"], 1, "Konsultansi menggunakan Seleksi."], ["PL Barang/Jasa Lainnya maksimal?", ["100 jt", "200 jt", "400 jt", "500 jt"], 1, "Batas Rp200 juta."], ["Swakelola Ormas?", ["I", "II", "III", "IV"], 2, "Ormas adalah Tipe III."], ["Kontrak volume belum pasti?", ["Lumsum", "Harga Satuan", "Turnkey", "Pesanan"], 1, "Harga Satuan."], ["Nilai HPS?", ["Rahasia semua", "Terbuka, rincian rahasia", "Tidak diumumkan", "Bebas"], 1, "Nilai terbuka, rincian rahasia."], ["Dokumen E-Purchasing?", ["Kuitansi", "SPK", "Surat/Bukti Pesanan", "Surat Perjanjian"], 2, "E-Purchasing menggunakan surat/bukti pesanan."]];
+const MATERI={
+  "Dashboard": {
+    "icon": "🏠",
+    "content": "\n<h2>Dashboard PBJ Level-1 V2</h2>\n<p>Versi 2 ini fokus pada <b>Pengantar PBJ, Perpres inti, Pelaku PBJ, Tujuan, Prinsip, Etika, dan angka sakral</b>.</p>\n<div class=\"cards\">\n<div class=\"card\"><b>Progress</b><span>V1 + V2 selesai</span></div>\n<div class=\"card\"><b>Fokus V2</b><span>Dasar PBJ & Perpres inti</span></div>\n<div class=\"card\"><b>Next</b><span>V3: Supply Chain Management</span></div>\n</div>\n"
+  },
+  "Cheat Sheet Sakral": {
+    "icon": "⚡",
+    "content": "\n<h2>Cheat Sheet Sakral PBJ Level-1</h2>\n<h3>Angka Wajib Hafal</h3>\n<table>\n<tr><th>Nilai</th><th>Makna</th></tr>\n<tr><td>≤ Rp10 juta</td><td>Bukti pembelian/pembayaran</td></tr>\n<tr><td>≤ Rp50 juta</td><td>Kuitansi</td></tr>\n<tr><td>≤ Rp100 juta</td><td>Pengadaan Langsung Jasa Konsultansi</td></tr>\n<tr><td>≤ Rp200 juta</td><td>Pengadaan Langsung Barang/Jasa Lainnya</td></tr>\n<tr><td>≤ Rp400 juta</td><td>Pengadaan Langsung Pekerjaan Konstruksi</td></tr>\n</table>\n<div class=\"note\"><b>Hafalan:</b> 10 - 50 - 100 - 200 - 400.</div>\n<h3>Rumus Cepat</h3>\n<ul>\n<li>HPS = PPK.</li>\n<li>Pemilihan Penyedia = Pokja.</li>\n<li>RUP = SiRUP.</li>\n<li>Jasa Konsultansi = Seleksi.</li>\n<li>Barang/Konstruksi/Jasa Lainnya = Tender.</li>\n<li>E-Purchasing = Katalog Elektronik/Toko Daring.</li>\n</ul>\n"
+  },
+  "Pengantar PBJ": {
+    "icon": "📘",
+    "content": "\n<h2>Pengantar Pengadaan Barang/Jasa Pemerintah</h2>\n<p>PBJ adalah kegiatan pengadaan barang/jasa oleh Kementerian/Lembaga/Perangkat Daerah/Institusi/Pemerintah Desa yang dibiayai APBN/APBD/APBDes, sejak identifikasi kebutuhan sampai serah terima hasil pekerjaan.</p>\n<h3>Ruang Lingkup</h3>\n<ul>\n<li>Barang</li>\n<li>Pekerjaan Konstruksi</li>\n<li>Jasa Konsultansi</li>\n<li>Jasa Lainnya</li>\n</ul>\n<h3>Cara Pengadaan</h3>\n<ul>\n<li><b>Swakelola</b>: dikerjakan sendiri/oleh pihak yang ditentukan dalam tipe swakelola.</li>\n<li><b>Melalui Penyedia</b>: dikerjakan oleh pelaku usaha berdasarkan kontrak.</li>\n</ul>\n<div class=\"danger\">Jebakan: cara pengadaan hanya Swakelola dan Penyedia. Tender/Seleksi itu metode pemilihan, bukan cara pengadaan.</div>\n"
+  },
+  "Tujuan PBJ": {
+    "icon": "🎯",
+    "content": "\n<h2>8 Tujuan PBJ</h2>\n<ol>\n<li><b>Value for Money</b>: barang/jasa tepat kualitas, kuantitas, waktu, biaya, lokasi, dan penyedia.</li>\n<li>Meningkatkan penggunaan <b>Produk Dalam Negeri</b>.</li>\n<li>Meningkatkan peran <b>UMK dan Koperasi</b>.</li>\n<li>Meningkatkan peran pelaku usaha nasional.</li>\n<li>Mendukung penelitian dan pemanfaatan hasil penelitian.</li>\n<li>Meningkatkan keikutsertaan industri kreatif.</li>\n<li>Mendorong pemerataan ekonomi dan perluasan kesempatan berusaha.</li>\n<li>Mendorong Pengadaan Berkelanjutan.</li>\n</ol>\n<div class=\"note\">Soal biasanya menanyakan: “yang bukan tujuan PBJ”. Hafalkan 8 poin ini.</div>\n"
+  },
+  "Prinsip PBJ": {
+    "icon": "📌",
+    "content": "\n<h2>7 Prinsip PBJ</h2>\n<div class=\"cards\">\n<div class=\"card\"><b>Efisien</b><span>Gunakan sumber daya optimal.</span></div>\n<div class=\"card\"><b>Efektif</b><span>Sesuai kebutuhan dan sasaran.</span></div>\n<div class=\"card\"><b>Transparan</b><span>Informasi jelas dan terbuka.</span></div>\n<div class=\"card\"><b>Terbuka</b><span>Dapat diikuti penyedia yang memenuhi syarat.</span></div>\n<div class=\"card\"><b>Bersaing</b><span>Persaingan sehat.</span></div>\n<div class=\"card\"><b>Adil</b><span>Tidak memihak pihak tertentu.</span></div>\n<div class=\"card\"><b>Akuntabel</b><span>Dapat dipertanggungjawabkan.</span></div>\n</div>\n<div class=\"note\"><b>Hafalan cepat:</b> EETTBAA.</div>\n"
+  },
+  "Etika PBJ": {
+    "icon": "⚖️",
+    "content": "\n<h2>Etika PBJ</h2>\n<ul>\n<li>Melaksanakan tugas secara tertib, bertanggung jawab, dan tepat tujuan.</li>\n<li>Bekerja profesional, mandiri, dan menjaga kerahasiaan informasi.</li>\n<li>Tidak saling mempengaruhi yang menyebabkan persaingan tidak sehat.</li>\n<li>Menerima dan bertanggung jawab atas keputusan sesuai kesepakatan tertulis.</li>\n<li>Menghindari konflik kepentingan.</li>\n<li>Mencegah pemborosan dan kebocoran keuangan negara.</li>\n<li>Mencegah penyalahgunaan wewenang dan kolusi.</li>\n<li>Tidak menerima, menawarkan, atau menjanjikan hadiah, komisi, rabat, imbalan, atau apa pun yang berkaitan dengan PBJ.</li>\n</ul>\n<h3>Konflik Kepentingan yang Sering Keluar</h3>\n<ul>\n<li>PPK/Pokja/Pejabat Pengadaan mengendalikan atau menjalankan badan usaha penyedia.</li>\n<li>Pengurus koperasi merangkap PPK/Pokja/Pejabat Pengadaan pada pengadaan terkait.</li>\n<li>Badan usaha peserta tender/seleksi dikendalikan pihak yang sama.</li>\n</ul>\n<div class=\"danger\">Jebakan: profesional itu etika. Akuntabel itu prinsip.</div>\n"
+  },
+  "Pelaku PBJ": {
+    "icon": "👥",
+    "content": "\n<h2>Pelaku PBJ</h2>\n<table>\n<tr><th>Pelaku</th><th>Tugas/Kewenangan yang Sering Keluar</th></tr>\n<tr><td>PA</td><td>Menetapkan perencanaan, mengumumkan RUP, menetapkan PPK/Pejabat Pengadaan/Penyelenggara Swakelola, menetapkan pemenang di atas batas kewenangan tertentu.</td></tr>\n<tr><td>KPA</td><td>Melaksanakan pelimpahan dari PA; dapat menjawab sanggah banding pekerjaan konstruksi.</td></tr>\n<tr><td>PPK</td><td>Menyusun perencanaan, KAK/spesifikasi, HPS, rancangan kontrak, melaksanakan E-Purchasing di atas batas tertentu, mengendalikan kontrak, menilai kinerja penyedia.</td></tr>\n<tr><td>Pejabat Pengadaan</td><td>Pengadaan Langsung, Penunjukan Langsung tertentu, E-Purchasing paling banyak Rp200 juta.</td></tr>\n<tr><td>Pokja Pemilihan</td><td>Persiapan dan pelaksanaan pemilihan penyedia kecuali Pengadaan Langsung dan E-Purchasing pembelian langsung.</td></tr>\n<tr><td>Penyelenggara Swakelola</td><td>Tim Persiapan, Tim Pelaksana, dan/atau Tim Pengawas.</td></tr>\n<tr><td>Penyedia</td><td>Bertanggung jawab atas pelaksanaan kontrak, kualitas, volume, waktu, dan tempat serah terima.</td></tr>\n</table>\n<div class=\"danger\">Jebakan terbesar: PPK menyusun HPS dan mengendalikan kontrak; Pokja menjalankan pemilihan.</div>\n"
+  },
+  "Perpres Inti Level-1": {
+    "icon": "⚖️",
+    "content": "\n<h2>Perpres Inti untuk Level-1</h2>\n<h3>Yang Wajib Dicatat</h3>\n<ul>\n<li>PBJ dimulai dari identifikasi kebutuhan sampai serah terima hasil pekerjaan.</li>\n<li>PBJ meliputi Barang, Pekerjaan Konstruksi, Jasa Konsultansi, dan Jasa Lainnya.</li>\n<li>PBJ dilakukan melalui Swakelola dan/atau Penyedia.</li>\n<li>Perencanaan pengadaan menghasilkan RUP dan diumumkan melalui SiRUP.</li>\n<li>PPK menyusun spesifikasi/KAK, HPS, rancangan kontrak, serta mengendalikan kontrak.</li>\n<li>HPS: nilai terbuka, rincian rahasia, dan bukan dasar menghitung kerugian negara.</li>\n<li>Pemaketan dilarang dipecah untuk menghindari tender/seleksi.</li>\n<li>Produk Dalam Negeri, SNI, UMK/Koperasi, dan produk ramah lingkungan diprioritaskan sepanjang tersedia dan sesuai kebutuhan.</li>\n</ul>\n<h3>Jebakan Perpres</h3>\n<div class=\"danger\">\n<ul>\n<li>RUP diumumkan melalui SiRUP, bukan SPSE.</li>\n<li>Tender untuk Barang/Konstruksi/Jasa Lainnya; Seleksi untuk Jasa Konsultansi.</li>\n<li>Pengadaan Langsung bukan alasan untuk memecah paket.</li>\n<li>HPS bukan dasar kerugian negara.</li>\n</ul>\n</div>\n"
+  },
+  "Latihan V2": {
+    "icon": "📝",
+    "content": "\n<h2>Latihan V2 - Pengantar, Prinsip, Etika, Pelaku</h2>\n<div id=\"quiz\"></div>\n<button onclick=\"startQuiz()\" class=\"primary\">Muat Soal</button>\n"
+  }
+};
+const QUESTIONS=[
+  [
+    "Yang termasuk prinsip PBJ adalah...",
+    [
+      "Profesional",
+      "Akuntabel",
+      "Gratifikasi",
+      "KAK"
+    ],
+    1,
+    "Akuntabel adalah prinsip PBJ."
+  ],
+  [
+    "Profesional dalam PBJ termasuk...",
+    [
+      "Prinsip",
+      "Etika",
+      "Metode",
+      "Kontrak"
+    ],
+    1,
+    "Profesional termasuk etika PBJ."
+  ],
+  [
+    "PBJ dimulai sejak...",
+    [
+      "Tender",
+      "Kontrak",
+      "Identifikasi kebutuhan",
+      "Pembayaran"
+    ],
+    2,
+    "PBJ dimulai sejak identifikasi kebutuhan."
+  ],
+  [
+    "Cara pengadaan ada dua, yaitu...",
+    [
+      "Tender dan Seleksi",
+      "Swakelola dan Penyedia",
+      "HPS dan KAK",
+      "SPSE dan SiRUP"
+    ],
+    1,
+    "Cara pengadaan: Swakelola dan melalui Penyedia."
+  ],
+  [
+    "Yang menetapkan HPS adalah...",
+    [
+      "PPK",
+      "Pokja",
+      "Penyedia",
+      "APIP"
+    ],
+    0,
+    "HPS ditetapkan oleh PPK."
+  ],
+  [
+    "RUP diumumkan melalui...",
+    [
+      "LPSE",
+      "SiRUP",
+      "Katalog",
+      "Surat Pesanan"
+    ],
+    1,
+    "RUP diumumkan melalui SiRUP."
+  ],
+  [
+    "Yang bukan tujuan PBJ adalah...",
+    [
+      "PDN",
+      "UMK/Koperasi",
+      "Pengadaan Berkelanjutan",
+      "Mengunci merek tertentu"
+    ],
+    3,
+    "Mengunci merek tertentu bukan tujuan PBJ."
+  ],
+  [
+    "Etika PBJ melarang...",
+    [
+      "Akuntabel",
+      "Gratifikasi",
+      "Transparan",
+      "Efisien"
+    ],
+    1,
+    "Gratifikasi dilarang dalam etika PBJ."
+  ],
+  [
+    "Pokja Pemilihan bertugas...",
+    [
+      "Mengendalikan kontrak",
+      "Melaksanakan pemilihan penyedia",
+      "Menyusun HPS",
+      "Membayar penyedia"
+    ],
+    1,
+    "Pokja melaksanakan pemilihan penyedia."
+  ],
+  [
+    "Penyedia bertanggung jawab atas...",
+    [
+      "Pelaksanaan kontrak",
+      "Menetapkan RUP",
+      "Menetapkan PA",
+      "Menyusun Perpres"
+    ],
+    0,
+    "Penyedia bertanggung jawab atas pelaksanaan kontrak dan kualitas pekerjaan."
+  ]
+];
